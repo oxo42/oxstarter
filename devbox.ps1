@@ -13,6 +13,7 @@ cinst conemu
 cinst sourcetree
 cinst inconsolata
 cinst putty
+cinst google-chrome-x64
 
 # From windows features
 cinst TelnetClient -source windowsFeatures
