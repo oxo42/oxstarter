@@ -5,3 +5,4 @@ My BoxStarter Config
 TODO
 
 openssl path
+conemu config

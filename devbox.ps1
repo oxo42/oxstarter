@@ -14,6 +14,7 @@ cinst sourcetree
 cinst inconsolata
 cinst putty
 cinst google-chrome-x64
+cinst git
 
 # From windows features
 cinst TelnetClient -source windowsFeatures
